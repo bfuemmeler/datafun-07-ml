@@ -57,6 +57,13 @@ https://scikit-learn.org/1.5/install.html
 add imports
 run/verify/push to GitHub
 
+# CC7.5 Chart a Straight Line (Part 1)
+follow through Chapter 10.16
+
+
+
+
+
 
 
 
