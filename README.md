@@ -72,6 +72,13 @@ Prediction:
 6-Predict
 7-Visualizations
 
+## CC7.7 Predict Avg High Temp in NYC in Jan (Part 3)
+Use Linear Regression on Average High Temperatures in NYC in January- different approach
+Continue by following steps in 15.4
+use scikit-learn estimator 
+
+
+
 
 
 
