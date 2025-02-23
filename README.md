@@ -59,6 +59,19 @@ run/verify/push to GitHub
 
 # CC7.5 Chart a Straight Line (Part 1)
 follow through Chapter 10.16
+Use ChatGPT to assist with code for setting up plot
+
+## CC7.6 Predict Avg High Temp in NYC in Jan (Part 2)
+Use Linear Regression on Average High Temperatures in NYC in January.
+Prediction:
+1-Data Acquisition
+2-Data Inspection
+3-Data Cleaning
+4-Descriptive Statistics
+5-Build Model
+6-Predict
+7-Visualizations
+
 
 
 
