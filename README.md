@@ -46,10 +46,21 @@ python -m pip install -r requirements.txt
 # run to update into requirements.txt
 python -m pip install <package_name>
 
-## Work through Chapter 10 examples
+# Work through Chapter 10 examples
 
-## Install Scikit-Learn & Dependencies
+# Install Scikit-Learn & Dependencies
 https://scikit-learn.org/1.5/install.html
+
+# Work through Chapter 15 examples
+
+# CC7.4 Start New Jupyter Notebook
+add imports
+run/verify/push to GitHub
+
+
+
+
+
 
 
 
